@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.Unity-ZeroMQ-Example.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Projects\GitHub\Unity-ZeroMQ-Example\.idea\.idea.Unity-ZeroMQ-Example\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
